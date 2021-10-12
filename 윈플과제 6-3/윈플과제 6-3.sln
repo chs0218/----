@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2046
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "윈플과제 6-3", "윈플과제 6-3\윈플과제 6-3.vcxproj", "{74693741-43CA-4E5E-9696-086C42CB8520}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{74693741-43CA-4E5E-9696-086C42CB8520}.Debug|x64.ActiveCfg = Debug|x64
+		{74693741-43CA-4E5E-9696-086C42CB8520}.Debug|x64.Build.0 = Debug|x64
+		{74693741-43CA-4E5E-9696-086C42CB8520}.Debug|x86.ActiveCfg = Debug|Win32
+		{74693741-43CA-4E5E-9696-086C42CB8520}.Debug|x86.Build.0 = Debug|Win32
+		{74693741-43CA-4E5E-9696-086C42CB8520}.Release|x64.ActiveCfg = Release|x64
+		{74693741-43CA-4E5E-9696-086C42CB8520}.Release|x64.Build.0 = Release|x64
+		{74693741-43CA-4E5E-9696-086C42CB8520}.Release|x86.ActiveCfg = Release|Win32
+		{74693741-43CA-4E5E-9696-086C42CB8520}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {19082D27-3775-4252-AED7-359FC33FC7E9}
+	EndGlobalSection
+EndGlobal
